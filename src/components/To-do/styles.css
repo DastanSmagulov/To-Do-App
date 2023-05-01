@@ -1,0 +1,67 @@
+.to-do-item {
+  display: flex;
+  align-items: center;
+}
+
+.to-do-text {
+  list-style: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  color: #151517;
+  margin-left: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.dots {
+  color: #aeaeae;
+}
+
+.checkBox {
+  border: 1.4px solid #aeaeae;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+
+.completed-text {
+  color: #959595;
+  text-decoration: line-through;
+}
+
+.completed-div {
+  background: #e4e6e7;
+  width: 654px;
+}
+
+.completed-checkbox {
+  background-color: #712fff;
+}
+
+.check {
+  display: inline;
+}
+
+.button-dots {
+  background: white;
+  border: white;
+}
+
+.completed-dots {
+  background-color: #e4e6e7;
+  border: #e4e6e7;
+}
+
+.button-dots:focus {
+  background-color: white;
+  border: white;
+}
+
+.button-done:focus {
+  background-color: #e4e6e7;
+  border: #e4e6e7;
+}

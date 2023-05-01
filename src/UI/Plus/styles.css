@@ -1,0 +1,14 @@
+.plus {
+  background: linear-gradient(0deg, #081e34, #081e34), #f0f0f0;
+  border-radius: 100px;
+  width: 52px;
+  height: 52px;
+  padding: 0 auto;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.plus:hover{
+  background: linear-gradient(0deg, #0f253b, #1b5085), #ebe5e5;
+}

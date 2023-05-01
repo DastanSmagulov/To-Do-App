@@ -1,0 +1,32 @@
+.header {
+  margin-bottom: 102px;
+}
+
+.text-h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 38px;
+  /* identical to box height, or 112% */
+
+  display: flex;
+  align-items: center;
+
+  color: #151517;
+  margin-bottom: 24px;
+}
+
+.text-p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height, or 138% */
+
+  display: flex;
+  align-items: center;
+
+  color: #151517;
+}

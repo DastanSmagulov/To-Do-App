@@ -1,0 +1,30 @@
+a{
+    text-decoration: underline;
+    color: inherit;
+}
+
+.footer {
+  margin-top: 288px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.love {
+  color: #081e34;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.fonts {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #081e34;
+
+  opacity: 0.5;
+}

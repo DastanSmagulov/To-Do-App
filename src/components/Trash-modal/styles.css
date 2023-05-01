@@ -1,0 +1,21 @@
+.trash-modal {
+  display: flex;
+
+  background: #e4e6e7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+  border-radius: 12px;
+  padding: 12px 0px 12px 11px;
+  width: 240px;
+  height: 28px;
+  align-items: center;
+}
+
+.trash-text {
+  color: #353535;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  margin-left: 18px;
+}
